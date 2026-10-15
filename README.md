@@ -25,10 +25,10 @@ Below are inline thumbnails for the result figures in the `figures/` directory. 
 
 <div align="center">
   <a href="figures/KGD_toughness_results.pdf">
-    <img src="figures/KGD_toughness_results.png" alt="KGD toughness results" width="420" />
+    <img src="figures/KGD_toughness_results.png" alt="KGD toughness results" width="220" />
   </a>
   <a href="figures/KGD_viscous_results.pdf">
-    <img src="figures/KGD_viscous_results.png" alt="KGD viscous results" width="420" />
+    <img src="figures/KGD_viscous_results.png" alt="KGD viscous results" width="220" />
   </a>
 </div>
 
